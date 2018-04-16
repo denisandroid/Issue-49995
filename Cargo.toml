@@ -1,0 +1,8 @@
+[package]
+name = "testcluStr"
+version = "0.1.0"
+authors = ["Денис Котляров <denis2005991@gmail.com>"]
+
+[dependencies]
+clucstr = "*"
+
