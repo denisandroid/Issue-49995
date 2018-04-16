@@ -1,3 +1,5 @@
+Files for https://github.com/rust-lang/rust/issues/49995#issuecomment-381618462
+
 The project is executed, but the documentation is executed with an error.
 
 	#![feature(plugin)]
